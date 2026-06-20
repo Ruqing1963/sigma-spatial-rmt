@@ -1,0 +1,1882 @@
+[
+  {
+    "hole": "LD-16-001A",
+    "from": 17.26,
+    "to": 17.38,
+    "width_cm": 7.5,
+    "angle": 65.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 25.2,
+    "to": 25.37,
+    "width_cm": 9.0,
+    "angle": 40.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 44.05,
+    "to": 44.14,
+    "width_cm": 4.0,
+    "angle": 45.0,
+    "minerals": "Cb,Ep,Qz,Py,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 47.19,
+    "to": 47.48,
+    "width_cm": 2.0,
+    "angle": 15.0,
+    "minerals": "Qz,Sr"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 63.74,
+    "to": 63.87,
+    "width_cm": 3.0,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 73.7,
+    "to": 73.75,
+    "width_cm": 2.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 83.23,
+    "to": 83.35,
+    "width_cm": 3.5,
+    "angle": 40.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 87.48,
+    "to": 87.56,
+    "width_cm": 4.5,
+    "angle": 35.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 96.03,
+    "to": 96.2,
+    "width_cm": 10.0,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 118.04,
+    "to": 118.13,
+    "width_cm": 2.0,
+    "angle": 40.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 120.0,
+    "to": 120.11,
+    "width_cm": 7.5,
+    "angle": 65.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 150.79,
+    "to": 150.89,
+    "width_cm": 4.0,
+    "angle": 55.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 157.36,
+    "to": 157.42,
+    "width_cm": 2.0,
+    "angle": 60.0,
+    "minerals": "Cb,Ep,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 166.59,
+    "to": 166.74,
+    "width_cm": 12.5,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Sr,Py,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 172.47,
+    "to": 172.62,
+    "width_cm": 4.0,
+    "angle": 35.0,
+    "minerals": "Cb,Qz,Ep,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 181.07,
+    "to": 181.19,
+    "width_cm": 7.0,
+    "angle": 65.0,
+    "minerals": "Cb,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 181.51,
+    "to": 181.61,
+    "width_cm": 5.0,
+    "angle": 55.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 202.86,
+    "to": 202.94,
+    "width_cm": 2.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Ep,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 203.73,
+    "to": 203.78,
+    "width_cm": 2.0,
+    "angle": 60.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 223.26,
+    "to": 223.42,
+    "width_cm": 7.0,
+    "angle": 65.0,
+    "minerals": "Cb,Ep,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 230.13,
+    "to": 230.24,
+    "width_cm": 8.0,
+    "angle": 80.0,
+    "minerals": "Cb,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 250.85,
+    "to": 250.92,
+    "width_cm": 3.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 261.55,
+    "to": 261.7,
+    "width_cm": 2.0,
+    "angle": 30.0,
+    "minerals": "Qz,Cb,Su,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 319.86,
+    "to": 319.96,
+    "width_cm": 4.5,
+    "angle": 50.0,
+    "minerals": "Cb,Ep,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 320.71,
+    "to": 320.8,
+    "width_cm": 1.5,
+    "angle": 25.0,
+    "minerals": "Cb,Sr,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 329.64,
+    "to": 330.16,
+    "width_cm": 49.0,
+    "angle": 80.0,
+    "minerals": "Qz,Cb,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 330.38,
+    "to": 330.45,
+    "width_cm": 3.0,
+    "angle": 70.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 341.87,
+    "to": 341.93,
+    "width_cm": 2.0,
+    "angle": 60.0,
+    "minerals": "Cb,Qz,Ep,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 350.95,
+    "to": 351.11,
+    "width_cm": 2.0,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 368.18,
+    "to": 368.25,
+    "width_cm": 3.5,
+    "angle": 80.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 383.48,
+    "to": 383.58,
+    "width_cm": 2.5,
+    "angle": 45.0,
+    "minerals": "Cb,Sr,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 388.73,
+    "to": 388.79,
+    "width_cm": 3.0,
+    "angle": 65.0,
+    "minerals": "Cb,Ep,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 408.38,
+    "to": 408.49,
+    "width_cm": 3.5,
+    "angle": 35.0,
+    "minerals": "Cb,Ep,Sr,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 409.54,
+    "to": 409.68,
+    "width_cm": 4.0,
+    "angle": 60.0,
+    "minerals": "Cb,Ep,Sr,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 411.56,
+    "to": 411.66,
+    "width_cm": 2.5,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Ep,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 417.07,
+    "to": 417.18,
+    "width_cm": 9.5,
+    "angle": 70.0,
+    "minerals": "Cb,Qz,Ep,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 419.51,
+    "to": 419.56,
+    "width_cm": 2.5,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 421.98,
+    "to": 422.67,
+    "width_cm": 2.0,
+    "angle": 10.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 458.12,
+    "to": 458.22,
+    "width_cm": 6.0,
+    "angle": 55.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 459.54,
+    "to": 459.62,
+    "width_cm": 3.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 476.05,
+    "to": 476.14,
+    "width_cm": 2.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 486.13,
+    "to": 486.25,
+    "width_cm": 10.0,
+    "angle": 75.0,
+    "minerals": "Cb,Ep,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 491.32,
+    "to": 491.42,
+    "width_cm": 7.0,
+    "angle": 60.0,
+    "minerals": "Cb,Sr,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 499.2,
+    "to": 499.34,
+    "width_cm": 6.5,
+    "angle": 50.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 503.75,
+    "to": 503.84,
+    "width_cm": 6.0,
+    "angle": 70.0,
+    "minerals": "Cb,Ep,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 511.59,
+    "to": 511.67,
+    "width_cm": 2.0,
+    "angle": 50.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 512.76,
+    "to": 512.97,
+    "width_cm": 9.0,
+    "angle": 30.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 513.15,
+    "to": 513.42,
+    "width_cm": 4.0,
+    "angle": 35.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 516.24,
+    "to": 516.34,
+    "width_cm": 5.0,
+    "angle": 55.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 519.69,
+    "to": 519.79,
+    "width_cm": 5.0,
+    "angle": 55.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 521.91,
+    "to": 522.57,
+    "width_cm": 63.0,
+    "angle": 65.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 522.96,
+    "to": 523.05,
+    "width_cm": 2.5,
+    "angle": 40.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 525.83,
+    "to": 525.97,
+    "width_cm": 3.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 528.32,
+    "to": 528.46,
+    "width_cm": 9.0,
+    "angle": 70.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 541.57,
+    "to": 541.79,
+    "width_cm": 2.0,
+    "angle": 10.0,
+    "minerals": "Cb,Qz,Sr,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 543.88,
+    "to": 544.0,
+    "width_cm": 2.0,
+    "angle": 35.0,
+    "minerals": "Cb,Ep,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 587.48,
+    "to": 587.57,
+    "width_cm": 4.0,
+    "angle": 35.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 589.52,
+    "to": 589.58,
+    "width_cm": 2.5,
+    "angle": 50.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 604.75,
+    "to": 604.9,
+    "width_cm": 11.0,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 608.94,
+    "to": 609.01,
+    "width_cm": 5.0,
+    "angle": 80.0,
+    "minerals": "Cb,Ep,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 612.81,
+    "to": 612.89,
+    "width_cm": 2.0,
+    "angle": 25.0,
+    "minerals": "Qz,Ep,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 619.03,
+    "to": 619.4,
+    "width_cm": 2.0,
+    "angle": 10.0,
+    "minerals": "Ep,Cb,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 619.85,
+    "to": 619.97,
+    "width_cm": 1.5,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 628.92,
+    "to": 628.98,
+    "width_cm": 5.0,
+    "angle": 80.0,
+    "minerals": "Cb,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 743.44,
+    "to": 743.63,
+    "width_cm": 5.0,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 811.39,
+    "to": 811.9,
+    "width_cm": 4.0,
+    "angle": 10.0,
+    "minerals": "Cb,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 812.49,
+    "to": 812.79,
+    "width_cm": 2.0,
+    "angle": 20.0,
+    "minerals": "Qz,Cb,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 893.15,
+    "to": 893.41,
+    "width_cm": 2.0,
+    "angle": 15.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 962.95,
+    "to": 963.01,
+    "width_cm": 2.0,
+    "angle": 40.0,
+    "minerals": "Cb,Qz,Ep,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 971.8,
+    "to": 971.89,
+    "width_cm": 5.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Ep,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 977.32,
+    "to": 977.38,
+    "width_cm": 3.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 998.07,
+    "to": 998.37,
+    "width_cm": 14.0,
+    "angle": 30.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1002.27,
+    "to": 1002.38,
+    "width_cm": 6.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1093.2,
+    "to": 1093.3,
+    "width_cm": 7.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1254.7,
+    "to": 1255.06,
+    "width_cm": 25.0,
+    "angle": 40.0,
+    "minerals": "Qz,Cb,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1273.73,
+    "to": 1273.77,
+    "width_cm": 2.0,
+    "angle": 65.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1290.16,
+    "to": 1290.3,
+    "width_cm": 6.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1290.33,
+    "to": 1290.39,
+    "width_cm": 2.0,
+    "angle": 45.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1292.6,
+    "to": 1292.74,
+    "width_cm": 11.0,
+    "angle": 75.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1336.72,
+    "to": 1337.0,
+    "width_cm": 3.0,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1357.38,
+    "to": 1357.56,
+    "width_cm": 3.0,
+    "angle": 20.0,
+    "minerals": "Cb,Qz,Ep,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1360.41,
+    "to": 1360.67,
+    "width_cm": 1.0,
+    "angle": 5.0,
+    "minerals": "Qz,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1361.64,
+    "to": 1361.83,
+    "width_cm": 1.0,
+    "angle": 15.0,
+    "minerals": "Qz,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1361.97,
+    "to": 1362.14,
+    "width_cm": 1.0,
+    "angle": 10.0,
+    "minerals": "Cb,Su,Qz,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1382.84,
+    "to": 1383.06,
+    "width_cm": 10.0,
+    "angle": 40.0,
+    "minerals": "Qz,Cb,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1388.14,
+    "to": 1388.21,
+    "width_cm": 4.0,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1388.59,
+    "to": 1388.65,
+    "width_cm": 5.0,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1389.65,
+    "to": 1389.75,
+    "width_cm": 7.0,
+    "angle": 70.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1407.95,
+    "to": 1408.03,
+    "width_cm": 5.0,
+    "angle": 65.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1409.69,
+    "to": 1409.74,
+    "width_cm": 3.0,
+    "angle": 80.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1418.13,
+    "to": 1418.23,
+    "width_cm": 4.0,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1427.29,
+    "to": 1427.43,
+    "width_cm": 6.0,
+    "angle": 40.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1471.23,
+    "to": 1471.29,
+    "width_cm": 1.5,
+    "angle": 50.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1471.93,
+    "to": 1472.38,
+    "width_cm": 35.0,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1473.34,
+    "to": 1473.36,
+    "width_cm": 1.0,
+    "angle": 85.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1474.69,
+    "to": 1474.73,
+    "width_cm": 2.5,
+    "angle": 85.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1476.03,
+    "to": 1476.15,
+    "width_cm": 1.5,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1489.48,
+    "to": 1489.52,
+    "width_cm": 3.0,
+    "angle": 75.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1624.4,
+    "to": 1625.7,
+    "width_cm": 2.0,
+    "angle": 15.0,
+    "minerals": "Qz,Cb,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1637.83,
+    "to": 1637.9,
+    "width_cm": 4.5,
+    "angle": 65.0,
+    "minerals": "Cb,Qz,Py,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1642.63,
+    "to": 1642.81,
+    "width_cm": 17.0,
+    "angle": 80.0,
+    "minerals": "Cb,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1649.89,
+    "to": 1649.96,
+    "width_cm": 5.0,
+    "angle": 75.0,
+    "minerals": "Cb,Qz,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1659.83,
+    "to": 1659.92,
+    "width_cm": 5.0,
+    "angle": 50.0,
+    "minerals": "Cb,Qz,Py,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1690.68,
+    "to": 1690.76,
+    "width_cm": 4.0,
+    "angle": 60.0,
+    "minerals": "Qz,Cb,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1696.44,
+    "to": 1696.55,
+    "width_cm": 7.0,
+    "angle": 75.0,
+    "minerals": "Qz,Cb,Cp"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1696.67,
+    "to": 1696.79,
+    "width_cm": 6.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1696.81,
+    "to": 1697.24,
+    "width_cm": 35.0,
+    "angle": 50.0,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1697.29,
+    "to": 1697.4,
+    "width_cm": 6.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1710.12,
+    "to": 1710.78,
+    "width_cm": 42.0,
+    "angle": 25.0,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1711.22,
+    "to": 1712.15,
+    "width_cm": 85.0,
+    "angle": 65.0,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1785.99,
+    "to": 1786.12,
+    "width_cm": 7.0,
+    "angle": 50.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1794.75,
+    "to": 1795.08,
+    "width_cm": 23.0,
+    "angle": 25.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1804.48,
+    "to": 1804.56,
+    "width_cm": 7.0,
+    "angle": 70.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1817.24,
+    "to": 1824.31,
+    "width_cm": 5.0,
+    "angle": 65.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1833.19,
+    "to": 1833.44,
+    "width_cm": 10.0,
+    "angle": 30.0,
+    "minerals": "Qz,Ab,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1899.23,
+    "to": 1899.3,
+    "width_cm": 2.0,
+    "angle": 40.0,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1908.81,
+    "to": 1908.89,
+    "width_cm": 2.0,
+    "angle": 50.0,
+    "minerals": "Qz,Su,Ab"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 1916.51,
+    "to": 1916.6,
+    "width_cm": 2.0,
+    "angle": 40.0,
+    "minerals": "Qz"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 2017.09,
+    "to": 2017.17,
+    "width_cm": 2.0,
+    "angle": 50.0,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 2023.39,
+    "to": 2023.48,
+    "width_cm": 3.0,
+    "angle": 50.0,
+    "minerals": "Cb,Qz,Ep,Py,Cp,Po"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 2046.15,
+    "to": 2046.47,
+    "width_cm": 25.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "LD-16-001A",
+    "from": 2050.5,
+    "to": 2050.79,
+    "width_cm": 9.0,
+    "angle": 35.0,
+    "minerals": "Qz"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 68.17,
+    "to": 68.18,
+    "width_cm": 1.0,
+    "angle": 60.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 68.27,
+    "to": 68.28,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": "Cb,Qz"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 88.54,
+    "to": 88.55,
+    "width_cm": 1.0,
+    "angle": 70.0,
+    "minerals": ""
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 91.0,
+    "to": 91.05,
+    "width_cm": 4.5,
+    "angle": null,
+    "minerals": "Cb,Ab"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 107.77,
+    "to": 107.8,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Ab,Qz,Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 155.58,
+    "to": 155.59,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": "Cb,Qz"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 160.33,
+    "to": 160.33,
+    "width_cm": 1.0,
+    "angle": 60.0,
+    "minerals": "Cc"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 187.95,
+    "to": 188.35,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Cc,Qz"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 188.42,
+    "to": 188.46,
+    "width_cm": 4.0,
+    "angle": 80.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 189.14,
+    "to": 189.18,
+    "width_cm": 4.0,
+    "angle": null,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 207.92,
+    "to": 308.07,
+    "width_cm": 13.0,
+    "angle": null,
+    "minerals": "Cb,Cc,Cp"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 285.25,
+    "to": 285.27,
+    "width_cm": 2.0,
+    "angle": 80.0,
+    "minerals": "Po"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 323.17,
+    "to": 323.19,
+    "width_cm": 2.0,
+    "angle": 30.0,
+    "minerals": "Cb,Qz,Cc"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 332.27,
+    "to": 332.36,
+    "width_cm": 8.5,
+    "angle": 25.0,
+    "minerals": ""
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 334.43,
+    "to": 334.44,
+    "width_cm": 1.0,
+    "angle": 80.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 421.75,
+    "to": 421.8,
+    "width_cm": 5.0,
+    "angle": 65.0,
+    "minerals": ""
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 426.42,
+    "to": 426.45,
+    "width_cm": 2.5,
+    "angle": 35.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 428.55,
+    "to": 428.6,
+    "width_cm": 4.5,
+    "angle": null,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 433.88,
+    "to": 433.92,
+    "width_cm": 4.0,
+    "angle": 35.0,
+    "minerals": "Cb,Qz"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 450.8,
+    "to": 450.01,
+    "width_cm": 1.0,
+    "angle": 38.08,
+    "minerals": ""
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 459.76,
+    "to": 459.77,
+    "width_cm": 1.0,
+    "angle": 30.0,
+    "minerals": "Cb,Sr,Po"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 468.63,
+    "to": 488.64,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 470.64,
+    "to": 476.65,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": "Cb,Qz,Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 508.85,
+    "to": 508.88,
+    "width_cm": 1.0,
+    "angle": 70.0,
+    "minerals": ""
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 512.68,
+    "to": 512.89,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": ""
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 524.44,
+    "to": 524.47,
+    "width_cm": 2.7,
+    "angle": null,
+    "minerals": "Cb,Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 534.04,
+    "to": 534.05,
+    "width_cm": 1.0,
+    "angle": 50.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 565.94,
+    "to": 565.95,
+    "width_cm": 1.0,
+    "angle": 35.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 566.83,
+    "to": 586.88,
+    "width_cm": 4.5,
+    "angle": null,
+    "minerals": "Cb,Cp"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 590.02,
+    "to": 590.03,
+    "width_cm": 1.0,
+    "angle": 75.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 500.47,
+    "to": 590.5,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 608.47,
+    "to": 608.5,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Cb,Qz,Ab"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 616.0,
+    "to": 616.01,
+    "width_cm": 1.0,
+    "angle": 35.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 618.19,
+    "to": 618.22,
+    "width_cm": 3.0,
+    "angle": 30.0,
+    "minerals": "Cb,Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 630.74,
+    "to": 630.75,
+    "width_cm": 1.0,
+    "angle": 35.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 531.5,
+    "to": 631.53,
+    "width_cm": 3.0,
+    "angle": 75.0,
+    "minerals": "Cb,Cp"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 645.51,
+    "to": 645.52,
+    "width_cm": 1.0,
+    "angle": 50.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 665.79,
+    "to": 655.83,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Cb,Qz,Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 658.05,
+    "to": 656.08,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Cb,Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 672.27,
+    "to": 672.28,
+    "width_cm": 1.0,
+    "angle": 40.0,
+    "minerals": "Cb,Qz"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 681.53,
+    "to": 681.55,
+    "width_cm": 2.0,
+    "angle": 70.0,
+    "minerals": ""
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 684.54,
+    "to": 684.56,
+    "width_cm": 2.0,
+    "angle": null,
+    "minerals": "Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 891.15,
+    "to": 891.18,
+    "width_cm": 1.0,
+    "angle": 86.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 691.83,
+    "to": 691.84,
+    "width_cm": 1.0,
+    "angle": 45.0,
+    "minerals": "Cb,Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 712.62,
+    "to": 712.63,
+    "width_cm": 1.0,
+    "angle": 45.0,
+    "minerals": "Cb,Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 755.46,
+    "to": 755.47,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": "Cb,Po"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 758.03,
+    "to": 758.4,
+    "width_cm": 1.0,
+    "angle": 50.0,
+    "minerals": "Cb,Sr,Cp"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 762.13,
+    "to": 762.15,
+    "width_cm": 2.0,
+    "angle": 55.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 762.56,
+    "to": 762.57,
+    "width_cm": 1.0,
+    "angle": 50.0,
+    "minerals": "Cb,Sr"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 763.46,
+    "to": 763.47,
+    "width_cm": 1.0,
+    "angle": 40.0,
+    "minerals": "Cb,Sr,Po"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 783.04,
+    "to": 783.05,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 792.45,
+    "to": 792.47,
+    "width_cm": 2.0,
+    "angle": null,
+    "minerals": "Cb,Po"
+  },
+  {
+    "hole": "SO-16-003",
+    "from": 818.67,
+    "to": 818.68,
+    "width_cm": 1.0,
+    "angle": null,
+    "minerals": "Cb,Sr,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 54.34,
+    "to": 54.46,
+    "width_cm": 5.0,
+    "angle": 80.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 75.9,
+    "to": 82.0,
+    "width_cm": 8.0,
+    "angle": 50.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 96.45,
+    "to": 96.54,
+    "width_cm": 2.0,
+    "angle": 40.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 98.31,
+    "to": 98.41,
+    "width_cm": 3.0,
+    "angle": 50.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 114.23,
+    "to": 114.3,
+    "width_cm": 2.5,
+    "angle": 55.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 132.98,
+    "to": 133.09,
+    "width_cm": 2.5,
+    "angle": 70.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 133.2,
+    "to": 133.34,
+    "width_cm": 5.0,
+    "angle": null,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 144.56,
+    "to": 144.63,
+    "width_cm": 4.5,
+    "angle": 70.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 146.47,
+    "to": 146.58,
+    "width_cm": 3.0,
+    "angle": 75.0,
+    "minerals": "Cp"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 146.75,
+    "to": 147.3,
+    "width_cm": 40.0,
+    "angle": null,
+    "minerals": ""
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 162.4,
+    "to": 162.53,
+    "width_cm": 7.0,
+    "angle": null,
+    "minerals": ""
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 162.53,
+    "to": 102.0,
+    "width_cm": 4.0,
+    "angle": null,
+    "minerals": ""
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 182.56,
+    "to": 182.64,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Cb,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 196.6,
+    "to": 196.8,
+    "width_cm": 0.0,
+    "angle": 45.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 206.4,
+    "to": 206.59,
+    "width_cm": 8.5,
+    "angle": 70.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 207.77,
+    "to": 207.98,
+    "width_cm": 7.0,
+    "angle": 75.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 208.92,
+    "to": 209.0,
+    "width_cm": 6.0,
+    "angle": 80.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 209.7,
+    "to": 210.07,
+    "width_cm": 30.0,
+    "angle": 85.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 220.37,
+    "to": 220.63,
+    "width_cm": 8.0,
+    "angle": 40.0,
+    "minerals": "Qz,Ep,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 224.15,
+    "to": 224.3,
+    "width_cm": 6.0,
+    "angle": null,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 224.35,
+    "to": 224.64,
+    "width_cm": 10.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 255.85,
+    "to": 256.06,
+    "width_cm": 11.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 256.25,
+    "to": 256.35,
+    "width_cm": 5.5,
+    "angle": 70.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 256.8,
+    "to": 267.08,
+    "width_cm": 14.0,
+    "angle": null,
+    "minerals": "Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 267.17,
+    "to": 267.42,
+    "width_cm": 9.0,
+    "angle": null,
+    "minerals": "Cp"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 287.13,
+    "to": 287.25,
+    "width_cm": 7.0,
+    "angle": 80.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 287.7,
+    "to": 287.9,
+    "width_cm": 7.0,
+    "angle": 60.0,
+    "minerals": "Qz,Cb,Cp"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 288.52,
+    "to": 288.59,
+    "width_cm": 1.5,
+    "angle": 55.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 296.71,
+    "to": 296.82,
+    "width_cm": 5.0,
+    "angle": 60.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 304.49,
+    "to": 304.55,
+    "width_cm": 3.0,
+    "angle": 80.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 305.29,
+    "to": 305.35,
+    "width_cm": 2.0,
+    "angle": null,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 312.17,
+    "to": 312.25,
+    "width_cm": 3.5,
+    "angle": 50.0,
+    "minerals": "Qz,Cc,Cp,Po"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 353.72,
+    "to": 354.06,
+    "width_cm": 24.0,
+    "angle": 80.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 354.15,
+    "to": 354.36,
+    "width_cm": 18.0,
+    "angle": null,
+    "minerals": "Cp"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 356.21,
+    "to": 356.29,
+    "width_cm": 8.0,
+    "angle": 85.0,
+    "minerals": "Qz,Cp"
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 380.21,
+    "to": 380.35,
+    "width_cm": 2.0,
+    "angle": 10.0,
+    "minerals": ""
+  },
+  {
+    "hole": "SV-16-009",
+    "from": 361.22,
+    "to": 361.42,
+    "width_cm": 8.0,
+    "angle": 85.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 15.34,
+    "to": 15.67,
+    "width_cm": 11.0,
+    "angle": null,
+    "minerals": "Qz"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 15.67,
+    "to": 16.08,
+    "width_cm": 25.0,
+    "angle": null,
+    "minerals": ""
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 42.74,
+    "to": 42.8,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": ""
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 52.15,
+    "to": 52.24,
+    "width_cm": 2.0,
+    "angle": 40.0,
+    "minerals": "Py"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 92.97,
+    "to": 93.07,
+    "width_cm": 5.0,
+    "angle": 50.0,
+    "minerals": "Qz,Cb,Py,Cp,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 112.1,
+    "to": 112.3,
+    "width_cm": 2.0,
+    "angle": 30.0,
+    "minerals": "Cp"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 138.89,
+    "to": 138.36,
+    "width_cm": 20.0,
+    "angle": 70.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 188.86,
+    "to": 138.7,
+    "width_cm": 2.0,
+    "angle": null,
+    "minerals": "Cb,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 179.94,
+    "to": 180.21,
+    "width_cm": 5.0,
+    "angle": null,
+    "minerals": "Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 181.14,
+    "to": 181.23,
+    "width_cm": 2.5,
+    "angle": 45.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 193.88,
+    "to": 193.98,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 210.31,
+    "to": 210.43,
+    "width_cm": 5.0,
+    "angle": 80.0,
+    "minerals": "Qz,Py,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 210.43,
+    "to": 210.71,
+    "width_cm": 5.5,
+    "angle": 45.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 214.0,
+    "to": 214.22,
+    "width_cm": 1.0,
+    "angle": 30.0,
+    "minerals": "Qz,Cb,Cp,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 258.29,
+    "to": 258.35,
+    "width_cm": 3.0,
+    "angle": 70.0,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 281.37,
+    "to": 281.49,
+    "width_cm": 4.0,
+    "angle": 45.0,
+    "minerals": "Qz,Cp,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 345.24,
+    "to": 348.3,
+    "width_cm": 2.0,
+    "angle": 80.0,
+    "minerals": "Cb,Po"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 357.07,
+    "to": 357.25,
+    "width_cm": 15.0,
+    "angle": null,
+    "minerals": "Cb,Cp"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 384.2,
+    "to": 386.7,
+    "width_cm": 1.0,
+    "angle": 20.0,
+    "minerals": "Qz,Cb"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 391.97,
+    "to": 392.25,
+    "width_cm": 4.0,
+    "angle": null,
+    "minerals": ""
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 416.26,
+    "to": 416.75,
+    "width_cm": 3.0,
+    "angle": null,
+    "minerals": "Cb"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 420.98,
+    "to": 421.08,
+    "width_cm": 4.0,
+    "angle": null,
+    "minerals": "Cp"
+  },
+  {
+    "hole": "SV-16-011",
+    "from": 438.31,
+    "to": 438.42,
+    "width_cm": 5.0,
+    "angle": null,
+    "minerals": "Cb"
+  }
+]
