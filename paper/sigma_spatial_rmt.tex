@@ -11,9 +11,10 @@
 \usepackage{geometry}
 \geometry{margin=1in}
 
-\title{\bfseries Time--Space Asymmetry in Orogenic Gold Systems:\\
-Temporal Level Repulsion but Spatial Clustering of\\
-Ore-Stage Veins at the Sigma Deposit, Val-d'Or, Canada}
+\title{\bfseries Ore-Stage Veins at the Sigma Orogenic Gold Deposit Are\\
+Spatially Clustered, Not Stress-Shadow Repulsive:\\
+a Drill-Core Test, and Why Declustering Fabricates GOE\\
+(Val-d'Or, Abitibi, Canada)}
 
 \author[1]{Ruqing Chen}
 \affil[1]{GUT Geoservice Inc., Montreal, Quebec, Canada \\ \texttt{ruqing@hotmail.com}}
@@ -24,46 +25,53 @@ Ore-Stage Veins at the Sigma Deposit, Val-d'Or, Canada}
 
 \begin{abstract}
 \noindent
-A recurring result of this research program is that a single isolated
-long-memory process produces Wigner--Dyson level repulsion, whereas the
-superposition of many independent sources produces Poisson statistics. In the
-\emph{temporal} domain, orogenic gold mineralization events were previously
-shown to exhibit GOE-class repulsion (a ``charge-and-release'' rhythm),
-consistent with a single deep crustal fluid source releasing episodically. Here
-we test whether the same deposit class shows the \emph{spatial} analog ---
+A recurring theme of this research program is the contrast between a single
+isolated source and the superposition of many: superposition drives the
+consecutive spacing ratio toward the Poisson value, a robust effect. A single
+``charge-and-release'' source, however, is a relaxation oscillator whose event
+timing is a narrow \emph{scalar clock}, not Wigner--Dyson level repulsion
+\citep{chen2026audit}; an earlier reading of orogenic-gold mineralization timing
+as GOE ``repulsion'' is corrected to a scalar clock in that audit. Here we test
+the \emph{spatial} record of the same deposit class for stress-shadow repulsion ---
 stress-shadow repulsion in the spacing of ore-stage veins --- using 235 quartz%
 --carbonate vein intercepts logged in four diamond drill holes at the
 Archean Sigma orogenic gold deposit (Val-d'Or, Abitibi, Canada; public
 assessment report GM~69917). Using a parameter-free spacing-ratio statistic
 $\langle r\rangle$ together with the coefficient of variation $\mathrm{CV}$,
-and applying \emph{no} declustering preprocessing, we find that the along-hole
+and applying \emph{no} declustering preprocessing --- which would act as an
+artificial hard core, truncating $P(s\!\to\!0)$ and forcing $\langle r\rangle$
+upward toward the GOE value irrespective of the underlying pattern --- we find
+that the along-hole
 vein spacing is \emph{clustered}, not repulsive: pooled $\langle r\rangle=0.344$
 (below the Poisson value $0.386$) and $\mathrm{CV}=1.45$ ($>1$), with a
-systematic excess of short spacings. A Kolmogorov--Smirnov test rejects the GOE
+systematic excess of short spacings. A permutation test gives
+$\langle r\rangle_{\rm shuf}=0.33$, indistinguishable from the observed value, so
+the clustering is a marginal property of the broad (vein-corridor) spacing
+distribution, not a sequential effect. A Kolmogorov--Smirnov test rejects the GOE
 (Wigner) hypothesis at $p<10^{-4}$. This result is reproduced by an independent
 natural fracture dataset (Lilstock pavement, $\mathrm{CV}=1.52$) and matches
-published vein-array statistics ($\mathrm{CV}=1.20$--$1.69$). We therefore
-report a \emph{time--space asymmetry}: the same orogenic gold system that is
-temporally repulsive is spatially clustered. We argue this is not a
-contradiction but a consequence of the unifying principle: temporal repulsion
-reflects a single source clock, while spatial clustering reflects repeated vein
-localization on inherited structural weaknesses (crack--seal cycling), i.e.\ a
-spatial superposition of many sites. We also document a methodological hazard:
+published vein-array statistics ($\mathrm{CV}=1.20$--$1.69$). The same orogenic gold system therefore pairs a \emph{temporal scalar clock} (a
+single charge-release source, not level repulsion) with \emph{spatial clustering}
+(repeated vein localization on inherited structural weaknesses by crack--seal
+cycling, i.e.\ a spatial superposition of many sites). We also document a
+methodological hazard:
 minimum-separation declustering fabricates spurious GOE statistics from purely
 random points, and must not be used to claim spatial repulsion.
 \end{abstract}
 
 \section{Introduction}
 
-This program has tested a single hypothesis across a sequence of Earth-system
-``racetracks'': spectra of geological events tend toward Gaussian Orthogonal
-Ensemble (GOE) level repulsion when a single long-memory process is isolated,
-and toward Poisson statistics when many independent sources superpose
-\citep{mehta2004}. In the temporal domain this has held for tectonic rhythms,
-seismicity, mantle-plume eruptions, and --- relevant here --- the timing of
-ore-forming events, where even non-magmatic orogenic gold systems show GOE
-repulsion, interpreted as an intrinsic ``charge-and-release'' memory of a single
-deep fluid source.
+This program tests how the spacing statistics of geological events depend on
+whether one source or many superposed sources are involved: superposition drives
+the consecutive spacing ratio toward Poisson \citep{mehta2004}, a robust effect we
+rely on below. A single ``charge-and-release'' source was initially read as
+producing Gaussian Orthogonal Ensemble (GOE) ``level repulsion'' in the timing of
+ore-forming events; a subsequent audit \citep{chen2026audit} shows that such a
+source is a relaxation oscillator whose timing is a narrow \emph{scalar clock} ---
+a high but shuffle-invariant spacing ratio fixed by the interval coefficient of
+variation --- and \emph{not} genuine level repulsion, which requires a chaotic,
+strongly-mixed spectrum. We carry that correction here and turn to the spatial
+question.
 
 Part~I of the spatial racetrack established that the temporal law has a spatial
 analog where an external clock organizes the rock record: cyclostratigraphic
@@ -76,7 +84,7 @@ parallel veins, yielding a minimum spacing and hence repulsion. Orogenic gold
 deposits are the ideal natural test: their ore-stage extensional veins are
 (i)~mode-I and fluid-overpressure driven, (ii)~chemically distinctive
 (quartz--tourmaline--carbonate with bleached alteration selvages), and
-(iii)~the spatial counterpart of the temporally repulsive ore-forming events.
+(iii)~the spatial counterpart of the temporally clocked ore-forming events.
 
 We test this at the Sigma deposit, a classic Archean orogenic gold system in the
 Val-d'Or camp \citep{robert1983}, using a public drill-core dataset. The result
@@ -150,6 +158,17 @@ $\langle r\rangle=0.344$ and $\mathrm{CV}=1.45$. A Kolmogorov--Smirnov test of
 the normalized spacing distribution against the Wigner (GOE) form is rejected at
 $D=0.310$, $p<10^{-4}$; the exponential (Poisson) form is also rejected
 ($D=0.112$, $p=0.006$) because the data are \emph{more} clustered than Poisson.
+A permutation test isolates whether this clustering is a sequential effect or a
+property of the spacing distribution alone: shuffling the pooled spacings (which
+preserves the marginal distribution but destroys any along-hole order) leaves
+$\langle r\rangle$ essentially unchanged, $\langle r\rangle_{\rm shuf}=0.33$
+versus $\langle r\rangle_{\rm obs}=0.344$ (difference $+0.02$, within the
+shuffle scatter). The low $\langle r\rangle$ is therefore a marginal property of
+the broad, high-CV spacing distribution --- the mixture of dense corridors and
+sparse intervening rock --- and not a short-range sequential correlation between
+neighbouring veins. This is the spatial counterpart of a scalar (marginal)
+signal: the pattern is set by where the corridors are, i.e.\ by macroscopic
+density structure, rather than by a vein-to-vein spacing rule.
 The clustering signature is explicit in the short-spacing fractions: spacings
 below $0.1$, $0.2$, and $0.3$ of the mean occur at $19.0\%$, $28.6\%$, and
 $35.5\%$, versus the Poisson expectations of $9.5\%$, $18.1\%$, and $25.9\%$
@@ -200,31 +219,40 @@ GOE line just as readily as the real veins (blue), proving the artifact.}
 
 \section{Discussion}
 
-\subsection{A time--space asymmetry, not a contradiction}
-The temporal record of orogenic gold mineralization is repulsive (GOE), yet the
-spatial record of the veins is clustered. Under the unifying principle of this
-program, the two are reconciled by asking what is ``the single source'' in each
-domain. \emph{In time}, ore-forming pulses are clocked by a single deep crustal
+\subsection{A temporal scalar clock with spatial clustering}
+The temporal record of orogenic gold mineralization is a scalar charge-release
+clock --- a narrow, shuffle-invariant interval distribution, \emph{not} GOE level
+repulsion \citep{chen2026audit} --- while the spatial record of the veins is
+clustered. Both follow from asking what ``the single source'' produces in each
+domain. \emph{In time}, ore-forming pulses are paced by a single deep crustal
 process --- episodic fluid overpressure build-up and release in one
-fault-valve / metamorphic devolatilization system --- so the events repel in
-time (a refractory period after each release). \emph{In space}, however, each
-pulse does not write onto a blank slate: veins nucleate preferentially on
-inherited anisotropies (shear-zone fabric, earlier veins, competent-incompetent
-contacts), and crack--seal cycling re-opens the same surfaces repeatedly. The
-spatial pattern is therefore a \emph{superposition of many localization sites},
-which under the same principle yields clustering, not repulsion.
+fault-valve / metamorphic devolatilization system --- a relaxation oscillator
+whose recharge sets a characteristic interval (a refractory period after each
+release). This is a \emph{scalar clock}: its spacing ratio is high but carries no
+sequential rigidity, and does not amount to level repulsion. \emph{In space},
+however, each pulse does not write onto a blank slate: veins nucleate
+preferentially on inherited anisotropies (shear-zone fabric, earlier veins,
+competent-incompetent contacts), and crack--seal cycling re-opens the same
+surfaces repeatedly. The spatial pattern is therefore a \emph{superposition of
+many localization sites}, which yields clustering, not repulsion. Geologically,
+the negative departure ($\langle r\rangle<0.386$ with $\mathrm{CV}>1$) is the
+signature of \emph{fluid channelization}: once a volume is fractured, the damage
+zone preferentially focuses subsequent fluid and re-opens to build vein
+corridors --- the opposite of stress-shadow exclusion, in which one vein would
+suppress the next.
 
 The key conceptual point is that \emph{a single temporal source need not be a
-single spatial source}. Time-domain repulsion and space-domain clustering can
-coexist in one system, and the present data show that they do. Stress-shadow
-repulsion is real as an idealized mechanism, but in mature natural systems it is
-overwhelmed by structural inheritance and crack--seal localization.
+single spatial source}. A temporal scalar clock and spatial clustering coexist in
+one system, and the present data show both. Stress-shadow repulsion is real as an
+idealized mechanism, but in mature natural systems it is overwhelmed by
+structural inheritance and crack--seal localization.
 
 \subsection{Implications}
-This refines the program's grand synthesis. The mapping ``single isolated
-process $\rightarrow$ repulsion; superposition $\rightarrow$ Poisson/clustering''
-survives, but the \emph{domain} in which a system counts as ``single-source'' may
-differ between time and space. For ore systems specifically, the result implies
+This refines the program's grand synthesis. The mapping is corrected to
+``single isolated relaxation-oscillator source $\rightarrow$ scalar clock (not
+GOE); superposition $\rightarrow$ Poisson/clustering'' \citep{chen2026audit}; the
+superposition limb is unchanged, and it is the limb that the spatial result here
+exercises. For ore systems specifically, the result implies
 that vein spacing carries information about structural inheritance rather than
 about an instantaneous elastic stress field --- relevant to how vein-density
 models are built for exploration.
@@ -247,21 +275,41 @@ hypothesis is rejected at $p<10^{-4}$.
 \item The same clustering appears in an independent mapped fracture network
 ($\mathrm{CV}=1.52$) and in published vein arrays ($\mathrm{CV}=1.20$--$1.69$):
 real vein/fracture systems are clustering-dominated.
-\item This produces a \emph{time--space asymmetry} in orogenic gold systems:
-temporally repulsive, spatially clustered. It is consistent with the unifying
-principle once one recognizes that a single temporal source corresponds to a
-spatial superposition of inherited localization sites.
+\item The orogenic gold system pairs a \emph{temporal scalar clock} (a single
+charge-release source, not level repulsion \citep{chen2026audit}) with
+\emph{spatial clustering} (a superposition of inherited localization sites): a
+single temporal source need not be a single spatial source.
 \item Minimum-separation declustering fabricates spurious GOE statistics from
 random points and must not be used to claim spatial repulsion; the honest
 diagnostic is raw $\langle r\rangle$ with CV.
 \end{enumerate}
 
+\section*{Changes from version 1 (erratum)}
+This is version~2. The spatial analysis is unchanged: the data, the pooled
+$\langle r\rangle=0.344$ and $\mathrm{CV}=1.45$ clustering result, the independent
+corroboration, all figures, and the demonstration that declustering fabricates
+GOE are exactly as in version~1 and stand. The revision concerns only the
+\emph{temporal} framing. Version~1 described the timing of orogenic-gold
+mineralization as ``temporal level repulsion (GOE)'' and cast the paper as a
+``time--space asymmetry.'' A subsequent audit \citep{chen2026audit} shows that a
+charge-and-release source is a relaxation oscillator whose timing is a narrow
+\emph{scalar clock}: its spacing ratio is high but shuffle-invariant and set by
+the interval coefficient of variation, with no spectral rigidity, and the
+specific orogenic-gold value is in any case unresolvable given geochronological
+age errors. Genuine Wigner--Dyson repulsion requires a chaotic, strongly-mixed
+spectrum, which a fluid reservoir does not possess. Accordingly, version~2
+reframes the temporal leg as a \emph{temporal scalar clock} (not level repulsion)
+and the result as ``temporal scalar clock $+$ spatial clustering'' rather than a
+time--space asymmetry. The superposition$\,\to\,$Poisson principle, on which the
+spatial argument here rests, is unaffected.
+
 \section*{Data and Code Availability}
 All vein-position data (extracted from public report GM~69917) and the analysis
 code are provided in the accompanying repository,
-\url{https://github.com/Ruqing1963/sigma-spatial-rmt}, archived on Zenodo. The
-primary source report is publicly available from the Quebec MRNF SIGEOM/GESTIM
-system.
+\url{https://github.com/Ruqing1963/sigma-spatial-rmt} (version~2.0), archived on
+Zenodo. The primary source report is publicly available from the Quebec MRNF
+SIGEOM/GESTIM system. The temporal re-audit underlying the version~2 reframing is
+in \citet{chen2026audit}.
 
 \begin{thebibliography}{9}
 \bibitem[Ata\c{s} et al.(2013)]{atas2013}
@@ -273,6 +321,12 @@ ensembles. \emph{Phys. Rev. Lett.} 110, 084101.
 Casoli, E., et al. (2026).
 Block-in-matrix deformation and veining at blueschist-facies conditions.
 \emph{Geochem. Geophys. Geosyst.}, in press.
+
+\bibitem[Chen(2026)]{chen2026audit}
+Chen, R. (2026).
+Narrow scalar clocks, not level repulsion: a fourth spurious-GOE hazard and a
+re-audit of metallogenic timing statistics. Zenodo,
+\url{https://doi.org/10.5281/zenodo.20980670}.
 
 \bibitem[Cox \& Lewis(1966)]{cox1966}
 Cox, D.R., \& Lewis, P.A.W. (1966).
