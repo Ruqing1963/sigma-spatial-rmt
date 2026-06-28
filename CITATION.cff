@@ -1,17 +1,19 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-title: "Time-Space Asymmetry in Orogenic Gold Systems: Spatial Clustering of Sigma Vein Spacing"
+title: "Ore-Stage Veins at the Sigma Orogenic Gold Deposit Are Spatially Clustered, Not Stress-Shadow Repulsive (Val-d'Or, Canada)"
+version: 2.0.0
 authors:
   - family-names: Chen
     given-names: Ruqing
     affiliation: "GUT Geoservice Inc., Montreal"
     email: ruqing@hotmail.com
-date-released: 2026-06-20
+date-released: 2026-06-27
 license: MIT
 keywords:
   - random matrix theory
   - orogenic gold
   - vein spacing
-  - spatial statistics
-  - level repulsion
+  - spatial point pattern
   - clustering
+  - scalar clock
+  - declustering artifact

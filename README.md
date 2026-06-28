@@ -1,24 +1,29 @@
-# Time–Space Asymmetry in Orogenic Gold Systems: Sigma Deposit Vein Spacing
+# Sigma Orogenic Gold Vein Spacing — Spatially Clustered, Not Repulsive
 
 **Repository:** https://github.com/Ruqing1963/sigma-spatial-rmt
 
+> **Version 2.0 (2026-06-27).** The spatial analysis is unchanged. The *temporal*
+> framing is corrected: v1's "temporal level repulsion (GOE) / time–space
+> asymmetry" is replaced by **temporal scalar clock + spatial clustering**, per
+> the audit [10.5281/zenodo.20980670](https://doi.org/10.5281/zenodo.20980670).
+> See `CHANGELOG.md`; the v1 PDF is preserved in `paper/archive/v1/`.
+
 This repository accompanies the paper:
 
-**"Time–Space Asymmetry in Orogenic Gold Systems: Temporal Level Repulsion but
-Spatial Clustering of Ore-Stage Veins at the Sigma Deposit, Val-d'Or, Canada"**
-by Ruqing Chen (GUT Geoservice Inc., Montreal).
+**"Ore-Stage Veins at the Sigma Orogenic Gold Deposit Are Spatially Clustered,
+Not Stress-Shadow Repulsive: a Drill-Core Test, and Why Declustering Fabricates
+GOE (Val-d'Or, Abitibi, Canada)"** by Ruqing Chen (GUT Geoservice Inc., Montreal).
 
 ## Summary
 
-This is Part II of the spatial racetrack in a research program applying Random
-Matrix Theory (RMT) to Earth-system rhythms. The program's unifying principle:
-**a single isolated long-memory process yields GOE/GUE level repulsion; the
-superposition of many independent sources yields Poisson/clustered statistics.**
-
-A previous racetrack showed that orogenic gold mineralization is **temporally**
-repulsive (GOE) — a charge-and-release rhythm of a single deep fluid source.
-This paper tests the **spatial** analog: do ore-stage extensional veins show
-stress-shadow spatial repulsion?
+This study tests how event-spacing statistics depend on single-source versus
+superposed-source configurations. The robust limb of the program is
+**superposition → Poisson**. A single "charge-and-release" source is a relaxation
+oscillator whose timing is a narrow **scalar clock** (a high but
+shuffle-invariant spacing ratio), **not** GOE level repulsion — see the audit
+[10.5281/zenodo.20980670](https://doi.org/10.5281/zenodo.20980670). This paper
+tests the **spatial** record of the same deposit class: do ore-stage extensional
+veins show stress-shadow spatial repulsion?
 
 **Result (negative for stress-shadow repulsion, but informative):** Using 235
 quartz–carbonate vein intercepts logged in four diamond drill holes at the
@@ -27,11 +32,11 @@ spacing is **clustered, not repulsive**: pooled ⟨r⟩ = 0.344 (below Poisson
 0.386), CV = 1.45 (> 1), with a systematic short-spacing excess. The GOE
 hypothesis is rejected at p < 10⁻⁴.
 
-This reveals a **time–space asymmetry**: the same orogenic gold system is
-temporally repulsive but spatially clustered. The reconciliation: a single
-*temporal* source (one deep fluid clock) corresponds to a *spatial*
-superposition of inherited localization sites (structural inheritance +
-crack–seal cycling).
+The same orogenic gold system therefore pairs a **temporal scalar clock** with
+**spatial clustering** (a superposition of inherited localization sites by
+structural inheritance and crack–seal cycling). A single temporal source need
+not be a single spatial source; the temporal leg is a scalar clock, not level
+repulsion.
 
 ## Key results
 
@@ -84,11 +89,13 @@ cd code && python3 analyze_sigma_veins.py
 
 ## Related work in this program
 
-- Racetrack 4 (metallogeny, temporal GOE incl. orogenic gold):
+- **Temporal audit (erratum basis for this v2):** Narrow scalar clocks, not level
+  repulsion — https://doi.org/10.5281/zenodo.20980670 (shows the ore-timing
+  "temporal GOE" is a scalar clock; basis for the v2 reframing here).
+- Metallogeny four-province timing (the audited study):
   https://zenodo.org/records/20768849
-- Part I (spatial, cyclostratigraphy, GUE repulsion):
-  https://zenodo.org/records/20774581
-- Primes × strata companion: https://zenodo.org/records/20775610
+- Spurious level repulsion (declustering / seasonal gating / Wishart):
+  https://doi.org/10.5281/zenodo.20883107
 
 ## License
 
